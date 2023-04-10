@@ -1,4 +1,3 @@
-import { describe, expect, it, vi } from "vitest";
 import * as myModule from "./myModule";
 import { myFunction, myMemoized } from "./myModule";
 
